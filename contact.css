@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+  
+  }
+  .box{
+      color:black;
+  }
+  header{
+      font: bolder;
+      text-align:center;
+      font-size:40px ;
+      
+      
+  }
+  body{
+    background:url('contact.jpg') no-repeat;
+    background-size: cover;
+    
+  }
+   nav{
+       float:right;
+       margin-top: 120px;
+       background-color:transparent;
+       margin-right:160px;
+       margin-left: 10px;
+   }
+  ul{
+      margin: 120px 230px;
+  }
+  ul li{
+      font: bold;
+      font-weight: 800;
+      list-style-type: none;
+  }
+  
